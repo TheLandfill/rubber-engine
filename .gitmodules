@@ -1,0 +1,6 @@
+[submodule "vendors/olcPGEX_AnimatedSprite"]
+	path = vendors/olcPGEX_AnimatedSprite
+	url = https://github.com/matt-hayward/olcPGEX_AnimatedSprite
+[submodule "vendors/PGEv2_Extensions"]
+	path = vendors/PGEv2_Extensions
+	url = https://github.com/justinrichardsmusic/PGEv2_Extensions.git
